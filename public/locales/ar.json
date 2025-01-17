@@ -1,0 +1,394 @@
+{
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "min_length": "الحد الأدنى للطول",
+    "max_length": "الحد الأقصى للطول"
+  },
+  "general": {
+    "system_name": "سكالي",
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "filter": "تصفية",
+    "save": "حفظ",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "delete": "حذف",
+    "search": "بحث",
+    "action": "إجراء",
+    "close": "إغلاق",
+    "select": "اختيار",
+    "delete_item": "هل ترغب في حذف هذا العنصر؟",
+    "from": "من",
+    "to": "الى",
+    "reset": "إعادة تعيين"
+  },
+  "layout": {
+    "navbar": {
+      "profile": "الملف الشخصي",
+      "logout": "تسجيل الخروج"
+    },
+    "sidebar": {
+      "profile": "الملف الشخصي",
+      "navigation": "التصفح",
+      "dashboard": "لوحة القيادة",
+      "settings": "الإعدادات",
+      "home": "الرئيسية",
+      "about": "من نحن",
+      "global": "عام",
+      "blogs": "المدونات",
+      "services": "الخدمات",
+      "studio_renting": "تأجير الاستوديو",
+      "contact_us": "اتصل بنا",
+      "join_us": "الانضمام لنا",
+      "sale": "العروض",
+      "reviews": "التقييمات",
+      "clients": "العملاء",
+      "plans": "الخطط",
+      "features": "الميزات",
+      "portofolio": "المعرض",
+      "contacts": "جهات الاتصال",
+      "reservations": "الحجوزات",
+      "users": "المستخدمين",
+      "salaries": "المرتبات",
+      "general_expenses": "مصاريف عامة",
+      "accounts": "الحسابات",
+      "reports": "التقارير",
+      "codes": "اكواد الخصم",
+      "dream_shot": "dream shot"
+    }
+  },
+  "pages": {
+    "auth": {
+      "welcome_1": "مرحبًا مرة أخرى",
+      "welcome_2": "قم بتسجيل الدخول إلى حسابك للمتابعة",
+      "welcome_3": "قم بإنشاء حساب مجاني",
+      "welcome_4": "أدخل بريدك الإلكتروني لإعادة تعيين حسابك",
+      "registered": "تم إنشاء حسابك بنجاح. يرجى الانتظار حتى يتم موافقة المشرف",
+      "reset_password": "إعادة تعيين كلمة المرور",
+      "change_password": "تغيير كلمة المرور",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "password": "كلمة المرور",
+      "type": "نوع الحساب",
+      "vendor": "بائع",
+      "sales": "المبيعات",
+      "forget_password": "نسيت كلمة المرور؟",
+      "reset": "إعادة تعيين",
+      "login": "تسجيل الدخول",
+      "donot_have_account": "ليس لديك حساب؟",
+      "register": "التسجيل",
+      "hane_an_account": "هل لديك بالفعل حساب؟"
+    },
+    "dashboard": {
+      "dashboard": "لوحة القيادة",
+      "general_report": "تقرير عام",
+      "clients": "العملاء",
+      "plans": "الخطط",
+      "services": "الخدمات",
+      "booking": "الحجز"
+    },
+    "settings": {
+      "settings": "الإعدادات",
+      "home": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "subtitle": "العنوان الفرعي",
+          "logo": "الشعار",
+          "gallery_images": "صور المعرض",
+          "background_images": "صور الخلفية",
+          "button": "الزر"
+        },
+        "blog": {
+          "blog": "المدونة",
+          "title": "العنوان",
+          "background_title": "عنوان الخلفية"
+        },
+        "info": {
+          "info": "معلومات",
+          "address": "العنوان",
+          "mail": "البريد",
+          "whatsapp": "واتساب",
+          "phone": "الهاتف",
+          "facebook": "فيسبوك",
+          "tiktok": "تيك توك",
+          "youtube": "يوتيوب",
+          "instagram": "انستجرام",
+          "pinterest": "pinterest"
+        },
+        "portofolio": {
+          "portofolio": "المعرض",
+          "title": "العنوان",
+          "description": "الوصف",
+          "images": "الصور"
+        },
+        "video": {
+          "video": "الفيديو"
+        },
+        "about": {
+          "about": "من نحن",
+          "icons": "الايقونات",
+          "title1": "العنوان 1",
+          "title2": "العنوان 2",
+          "title3": "العنوان 3",
+          "title4": "العنوان 4",
+          "description": "الوصف"
+        },
+        "services": {
+          "services": "الخدمات",
+          "background_image": "صورة الخلفية",
+          "title": "العنوان",
+          "icon": "الايقونة",
+          "subtitle": "العنوان الفرعي",
+          "description": "الوصف",
+          "background_title": "عنوان الخلفية"
+        },
+        "footer": {
+          "footer": "الفوتر",
+          "icons": "الرموز",
+          "title1": "العنوان 1",
+          "title2": "العنوان 2",
+          "title3": "العنوان 3",
+          "title4": "العنوان 4",
+          "image": "الصورة"
+        }
+      },
+      "about": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "background_image": "صورة الخلفية",
+          "main_section_title": "عنوان القسم الرئيسي",
+          "main_section_subtitle": "العنوان الفرعي للقسم الرئيسي",
+          "main_section_description": "وصف القسم الرئيسي",
+          "main_section_quote": "اقتباس القسم الرئيسي",
+          "image": "الصورة",
+          "signature": "التوقيع",
+          "main_section_photo_taken": "تاريخ التقاط الصورة الرئيسية",
+          "main_section_creative_videos": "مقاطع الفيديو الإبداعية",
+          "main_section_working_hours": "ساعات العمل للقسم الرئيسي",
+          "main_section_happy_clients": "العملاء السعداء للقسم الرئيسي"
+        }
+      },
+      "blogs": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "background_image": "صورة الخلفية"
+        }
+      },
+      "studio": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "background": "الخلفية",
+          "images": "الصور",
+          "renting_section_background": "خلفية قسم التأجير",
+          "renting_section_title": "عنوان قسم التأجير",
+          "renting_section_subtitle": "العنوان الفرعي لقسم التأجير",
+          "renting_section_description": "وصف قسم التأجير",
+          "renting_section_feature1": "ميزة التأجير 1",
+          "renting_section_feature2": "ميزة التأجير 2"
+        }
+      },
+      "contact": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "background": "الخلفية",
+          "phone": "الهاتف",
+          "phone_description": "وصف الهاتف",
+          "address": "العنوان",
+          "email": "البريد الإلكتروني",
+          "email_description": "وصف البريد الإلكتروني"
+        }
+      },
+      "sale": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "background": "الخلفية",
+          "sale": "العروض",
+          "expiration_date": "تاريخ انتهاء العرض"
+        }
+      },
+      "services": {
+        "main": {
+          "main": "الرئيسية",
+          "title": "العنوان",
+          "background": "الخلفية"
+        },
+        "services": {
+          "services": "الخدمات",
+          "name1": "الاسم 1",
+          "name2": "الاسم 2",
+          "name3": "الاسم 3",
+          "name4": "الاسم 4",
+          "name5": "الاسم 5",
+          "name6": "الاسم 6",
+          "services_images": "صور الخدمات",
+          "services_icons": "أيقونات الخدمات"
+        },
+        "offer": {
+          "offer": "العرض",
+          "title": "العنوان",
+          "subtitle": "العنوان الفرعي",
+          "offer_percentage": "نسبة العرض",
+          "video": "الفيديو",
+          "offer_section_background": "خلفية القسم",
+          "offer_section_image": "صورة القسم",
+          "description": "الوصف"
+        },
+        "all_services": {
+          "all_services": "جميع الخدمات",
+          "title": "العنوان",
+          "background": "الخلفية",
+          "option1_image": "option1 image",
+          "option2_image": "option2 image",
+          "option1_name": "option1 name",
+          "option2_name": "option2 name",
+          "option1_title": "option1 title",
+          "option2_title": "option2 title",
+          "option1_features": "option1 features",
+          "option2_features": "option2 features"
+        }
+      },
+      "dream_shot": {
+        "dream_shot": "dream shot",
+        "title": "العنوان",
+        "description": "الوصف",
+        "background": "الخلفية",
+        "icon": "الايقونة"
+      }
+    },
+    "users": {
+      "users": "المستخدمين",
+      "no_users": "لا يوجد مستخدمين",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "رقم الهاتف",
+      "salary": "المرتب",
+      "password": "كلمة المرور"
+    },
+    "blogs": {
+      "blogs": "المدونات",
+      "no_blogs": "لا توجد مدونات",
+      "title": "العنوان",
+      "description": "الوصف",
+      "pinned": "مثبت",
+      "date": "التاريخ",
+      "badge": "شارة",
+      "image": "الصورة"
+    },
+    "reviews": {
+      "reviews": "التقييمات",
+      "no_reviews": "لا توجد تقييمات",
+      "name": "الاسم",
+      "job": "الوظيفة",
+      "review": "التقييم",
+      "image": "الصورة"
+    },
+    "clients": {
+      "clients": "العملاء",
+      "no_clients": "لا توجد عملاء",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "link": "الرابط"
+    },
+    "features": {
+      "features": "الميزات",
+      "no_features": "لا توجد ميزات",
+      "name": "الاسم"
+    },
+    "plans": {
+      "plans": "الخطط",
+      "no_plans": "لا توجد خطط",
+      "name": "الاسم",
+      "amount": "المبلغ",
+      "cycloroma": "cycloroma",
+      "from": "من",
+      "to": "إلى",
+      "features": "الميزات"
+    },
+    "portofolio": {
+      "portofolio": "المعرض",
+      "no_portofolio": "لا توجد معرض",
+      "image": "الصورة",
+      "tag": "الوسم"
+    },
+    "contacts": {
+      "contacts": "جهات الاتصال",
+      "no_contacts": "لا توجد جهات اتصال",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "message": "الرسالة"
+    },
+    "join": {
+      "join": "الانضمام لنا",
+      "no_join": "لا يوجد بيانات",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "رقم الهاتف"
+    },
+    "reservations": {
+      "reservations": "الحجوزات",
+      "no_reservations": "لا يوجد بيانات",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "رقم الهاتف",
+      "date": "التاريخ",
+      "from": "من",
+      "to": "الى",
+      "paid_half_amount": "دفع نص المبلغ ؟",
+      "package": "الباقة",
+      "paid": "المبلغ",
+      "promo_code": "كود الخصم"
+    },
+    "salaries": {
+      "salaries": "المرتبات",
+      "no_salaries": "لا يوجد بيانات",
+      "user": "المستخدم",
+      "date": "التاريخ",
+      "amount": "المبلغ",
+      "rewards": "مكافئات",
+      "deduction": "الاستقطاعات",
+      "bounce": "بونص",
+      "total": "الاجمالي"
+    },
+    "expenses": {
+      "expenses": "المصاريف",
+      "no_expenses": "لا يوجد بيانات",
+      "category": "القسم",
+      "amount": "المبلغ",
+      "note": "ملاحظة",
+      "date": "التاريخ"
+    },
+    "services": {
+      "services": "الخدمات",
+      "no_services": "لا يوجد بيانات",
+      "name": "الاسم",
+      "advance": "advance",
+      "amount": "المبلغ",
+      "note": "ملاحظة",
+      "date": "التاريخ"
+    },
+    "reports": {
+      "reports": "التقارير",
+      "total_amount": "الاجمالي",
+      "total_paid_amount": "اجمالي المبلغ المدفوع",
+      "income": "الايرادات",
+      "outcome": "outcome"
+    },
+    "codes": {
+      "codes": "اكواد الخصم",
+      "no_codes": "لا يوجد اكواد خصم",
+      "code": "كود الخصم",
+      "expiration_date": "تاريخ الانتهاء",
+      "unit": "الوحدة",
+      "value": "قيمة الخصم"
+    }
+  }
+}
